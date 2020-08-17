@@ -1,0 +1,13 @@
+package com.cultclone.app.workoutscheduler;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CultFitCloneWorkoutSchedulerServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CultFitCloneWorkoutSchedulerServiceApplication.class, args);
+	}
+
+}
